@@ -12,8 +12,8 @@
 
 | File | Description |
 |---|---|
-| [`PRD.md`](./PRD.md) | Instrumentation PRD — event taxonomy, funnel definitions, cohorts, PostHog → HubSpot sync spec, PQL definition, success metrics |
-| [`PLAYBOOK.md`](./PLAYBOOK.md) | Operational playbook — SDK setup, event capture code samples, funnel config, HubSpot workflow specs, weekly review checklist |
+| [`prd-posthog-plg-instrumentation.md`](./prd-posthog-plg-instrumentation.md) | Instrumentation PRD — event taxonomy, funnel definitions, cohorts, PostHog → HubSpot sync spec, PQL definition, success metrics |
+| [`playbook-posthog-hubspot-trackr.md`](./playbook-posthog-hubspot-trackr.md) | Operational playbook — SDK setup, event capture code samples, funnel config, HubSpot workflow specs, weekly review checklist |
 
 ---
 
